@@ -11,8 +11,8 @@ START_TEXT = "Hai {}\n\nI am Auto Request Accept Bot With Working For All Channe
 
 API_ID = int(env.get(' 23903140'))
 API_HASH = env.get(' 579f1bcf3eac1660d81ef34b09906012')
-BOT_TOKEN = env.get('8235037869:AAFQQ_8bcAvUXfckDDqmS6UEGL_PFq9wP5M')
-DB_URL = env.get('mongodb+srv://hackersehzan_db_user:7XwTVPgxUxmswpmL@cluster0.sxwdosl.mongodb.net/?appName=Cluster0')
+BOT_TOKEN = env.get('8484267646:AAHfMdoEPirR01pVKEOSDGDYBv66R2nESKE')
+DB_URL = env.get('mongodb+srv://peyofip118_db_user:OYjWsF84H4ah69Gd@cluster0.scovtfc.mongodb.net/?appName=Cluster0')
 ADMINS = int(env.get('1416433622'))
 
 Dbclient = AsyncIOMotorClient(DB_URL)
